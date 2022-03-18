@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Type",
+      "value" : "Logo"
+    }, {
+      "trait_type" : "Organization",
+      "value" : "Mexas de SV"
+    } ],
+    "description" : "Mexas de Sillicon Valley ch0ks's first coded NFT in Ethereum.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmNfg8QNQN4W3VrbTSpxYuvHfdUP9oHu233jvWbzNpAvgb",
+    "name" : "Mexas de SV"
+}

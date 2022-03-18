@@ -10,4 +10,4 @@
 #
 set -euf -o pipefail
 
-gpg -do ../.env ../env.asc
+gpg -saer 0x6326DB03A60495D7 -o ../env.asc ../.env
